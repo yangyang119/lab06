@@ -1,4 +1,4 @@
-Lab 06 - Sad plots
+Lab 06 - Ugly charts and Simpson’s paradox
 ================
 Insert your name here
 Insert date here
@@ -7,8 +7,22 @@ Insert date here
 
 ``` r
 library(tidyverse) 
-library(dsbox) 
 ```
+
+    ## Warning: package 'tidyverse' was built under R version 4.3.3
+
+    ## Warning: package 'readr' was built under R version 4.3.3
+
+    ## Warning: package 'forcats' was built under R version 4.3.3
+
+    ## Warning: package 'lubridate' was built under R version 4.3.3
+
+``` r
+library(dsbox)
+library(mosaicData) 
+```
+
+    ## Warning: package 'mosaicData' was built under R version 4.3.3
 
 ### Exercise 1
 
